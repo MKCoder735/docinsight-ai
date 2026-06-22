@@ -1,2 +1,3 @@
-# docinsight-ai
-Free AI - Powered document summarizer and data analyzer.
+# DocInsight AI
+
+Full-stack free document analysis starter.
